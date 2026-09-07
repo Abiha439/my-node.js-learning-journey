@@ -1,0 +1,25 @@
+    // version
+
+    "^5.2.1"
+    first part => 5
+    second part => 2
+    third part => 1
+
+    // third part (last part) - minor fixes (optional)
+    abhi yai "1" hai, agar yai 2,3,4 ya kuch or bhi ho jaye, tou hmen koi farq nhi pary ga
+
+
+    // second part - recommended bug fix (security fix)
+    latest version 5.2.1
+    agar yai "2" sy "3" ho jaye tou hm kahen gai koi feature add hua hai 
+    ya phir koi critical security bug ko fix kiya jata hai tou second part mai change ata hai
+
+
+    //first part (major release) major and breaking update
+
+    ab is carrot(^) symbol ko dekhen gai
+    abhi hmara version hai "^5.2.1"
+    carrot symbol ka mtlb hai "5" ko change nhi krna, bakio ko kr skty hain
+
+    ~ mean second digit ko bhi change nhi kr skty, bs third digit ko hi change kr skty ho ap
+    
